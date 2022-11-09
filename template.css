@@ -1,0 +1,18 @@
+body { /* this will setup the background color for the page */
+ background-color: lightyellow;
+}
+h1 { 
+ color: black; /* text color to black*/
+ text-align: center;/* make the text appear on the center*/
+ font-family: "Times New Roman", Times, serif; /* font style */
+}
+
+p {
+ font-family: sans-serif; /* changes the font of the text */
+ font-size: 64px; /* changes the size of the text*/
+}
+p.centrado {
+    font-family: times;
+    font-size: 12px;
+    text-align: center
+   }
